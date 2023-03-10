@@ -27,7 +27,7 @@ The YT-Downloader plug-in offers the following features:
 
 ## Main Technologies ##
 <br>
-React
+React<br>
 Node.js
 <br>
 
@@ -37,7 +37,9 @@ Node.js
 ## Main packages ##
 <br>
 Socket.io
+<br>
 ytdl-core
+<br>
 Material-ui
 
 <br>
@@ -47,11 +49,17 @@ Material-ui
 <br>
 
 📌 Clone the repository
+<br>
 📌 Run npm install to install dependencies
+<br>
 📌 Run npm start to start the server
+<br>
 📌 Build the React project using npm run build
+<br>
 📌 Install the extension by navigating to chrome://extensions, enabling developer mode, and clicking "Load unpacked"
+<br>
 📌 Select the build folder from the cloned repository
+<br>
 
 <br><br>
 ## Disclaimer ## 
