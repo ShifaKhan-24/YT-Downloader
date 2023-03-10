@@ -1,0 +1,26 @@
+{
+  "short_name": "YT-DOWNLOAD",
+  "name": "YT-DOWNLOAD",
+  "manifest_version": 3,
+  "version": "1.0.1.0",
+  "description": "YT DOWNLOAD {author : 'SHIFA KHAN'}",
+  "permissions": ["scripting", "activeTab", "storage", "tabs"],
+  "icons": {
+    "16": "./icons/myicon-16.png",
+    "48": "./icons/myicon-48.png",
+    "128": "./icons/myicon-128.jpg"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "YT Download Plugin",
+    "default_icon": {
+      "16": "./icons/myicon-16.png",
+
+      "48": "./icons/myicon-48.png",
+      "128": "./icons/myicon-128.jpg"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
