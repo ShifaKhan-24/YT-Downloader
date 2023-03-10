@@ -25,7 +25,7 @@ The YT-Downloader plug-in offers the following features:
 ![img-5](https://user-images.githubusercontent.com/94692552/224392256-3b6fac68-71ef-4543-8aac-ee1a1118e941.jpg)
 ![img-7](https://user-images.githubusercontent.com/94692552/224392270-56273733-3faa-454c-8355-f19eba26f08a.jpg)
 
-# Main Technologies #
+## Main Technologies ##
 <br>
 React
 Node.js
@@ -43,18 +43,18 @@ Material-ui
 <br>
 <br>
 
-##Usage##
+## Usage ##
 <br>
 
-Clone the repository
-Run npm install to install dependencies
-Run npm start to start the server
-Build the React project using npm run build
-Install the extension by navigating to chrome://extensions, enabling developer mode, and clicking "Load unpacked"
-Select the build folder from the cloned repository
+📌 Clone the repository
+📌 Run npm install to install dependencies
+📌 Run npm start to start the server
+📌 Build the React project using npm run build
+📌 Install the extension by navigating to chrome://extensions, enabling developer mode, and clicking "Load unpacked"
+📌 Select the build folder from the cloned repository
 
 <br><br>
-##Disclaimer## 
+## Disclaimer ## 
 The Yt-Downloader extension is for educational purposes only. The creators of this extension do not condone the downloading of copyrighted material without the express permission of the owner. Use this extension at your own risk.
 The app is currently in development, with the global chrome object and popup communication with the background and content script still to be added
 
